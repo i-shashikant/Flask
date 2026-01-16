@@ -12,7 +12,7 @@ This repository contains my learning journey of building web applications using 
 ## ⚙️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/i-shashikant/flask.git
+   git clone https://github.com/i-shashikant/Flask.git
    cd flask
    ```
 
@@ -45,7 +45,7 @@ This repository contains my learning journey of building web applications using 
 - Learn how to deploy Flask apps
 
 ## 🤝 Contributing
-This is a personal learning project, but suggestions and improvements are welcome! Feel free to fork the repo and submit pull requests.
+This is a personal learning project, but I welcome suggestions and improvements! Feel free to fork the repo and submit pull requests.
 
 ## 📄 License
 This project is licensed under the MIT License.
